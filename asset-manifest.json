@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sort-search-visualizer/static/css/main.ab5ea1fa.css",
+    "main.js": "/sort-search-visualizer/static/js/main.65408904.js",
+    "index.html": "/sort-search-visualizer/index.html",
+    "main.ab5ea1fa.css.map": "/sort-search-visualizer/static/css/main.ab5ea1fa.css.map",
+    "main.65408904.js.map": "/sort-search-visualizer/static/js/main.65408904.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab5ea1fa.css",
+    "static/js/main.65408904.js"
+  ]
+}
